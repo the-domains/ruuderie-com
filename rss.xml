@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ruud Erie Website]]></title>
         <description><![CDATA[Ruud Erie Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ruuderie.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 09:42:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 10:23:09 GMT</lastBuildDate>
+        <atom:link href="http://ruuderie.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Ruud Erie | Web Developer]]></title>
+            <title><![CDATA[Ruud Erie | Developer & Entrepreneur]]></title>
             <description><![CDATA[<article><h1>Ruud Erie &vert; Web Developer</h1></article>]]></description>
             <link>http://ruudforce.com/</link>
             <guid isPermaLink="false">aa835bcb-d081-42a9-960f-dc5563f94b86</guid>
-            <pubDate>Sat, 06 Feb 2016 09:42:05 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 10:22:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
