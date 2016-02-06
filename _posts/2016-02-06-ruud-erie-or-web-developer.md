@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://ruudforce.com/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-06T10:22:19.215Z'
-dateModified: '2016-02-06T10:22:17.477Z'
+description: 'Ruud is an international investor, software developer and entrepreneur.'
+datePublished: '2016-02-06T17:38:06.168Z'
+dateModified: '2016-02-06T17:38:01.221Z'
 author: []
 related: []
 app_links: []
@@ -25,7 +25,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ruud Erie &amp;vert; Web Developer</h1></article>
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b89730d-dfdd-445e-a335-b491a2490161.jpg)
+
+<article style=""><h1>Ruud Erie | Developer | Entrepreneur</h1></article>
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81d0d10d-8dd4-4ed5-9fa3-6ea577abbb78.jpg)
