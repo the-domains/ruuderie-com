@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.shouldersoftitans.com'
-  name: Shoulders of Titans
-  favicon: null
-  domain: www.shouldersoftitans.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - entrepreneur
   - danpena
@@ -18,17 +16,21 @@ keywords:
   - self-esteem
   - qla
 description: 'Dan Peña is known worldwide as a leading high performance coach. Few have accomplished his level of success in coaching and in business. Working with high-performance entrepreneurs and corporate professionals alike, Mr. Peña has created over fifty billion dollars in equity and in value with his mentees.'
-inLanguage: en
+datePublished: '2016-02-06T19:38:02.755Z'
+dateModified: '2016-02-06T19:37:59.596Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.shouldersoftitans.com/dan-pena/'
-title: Ep. 001 - How Ordinary People Can Build Extraordinary Wealth With Quantum Leap Advantage Methodology - Shoulders of Titans
-datePublished: '2016-02-06T18:55:00.381Z'
-dateModified: '2016-02-06T18:50:13.544Z'
+title: How Ordinary People Can Build Extraordinary Wealth With Quantum Leap Advantage Methodology - Shoulders of Titans
 sourcePath: _posts/2016-02-06-ep-001-how-ordinary-people-can-build-extraordinary-wealth.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Shoulders of Titans
+  domain: www.shouldersoftitans.com
+  url: 'http://www.shouldersoftitans.com'
+  favicon: null
+url: how-ordinary-people-can-build-extraordinary-wealth-with-quan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
