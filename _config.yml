@@ -1,0 +1,28 @@
+name: ruuderie.com
+favicon: null
+layout_spectrum: 0.26040901243686676
+typography_spectrum: 0.4449061013292521
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7396734245121479
+  lightness: 0.11029280442744493
+  saturation: 0.5450447578914464
+  rhythmicContrast: 0.6187713739927858
+purpose: []
