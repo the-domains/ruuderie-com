@@ -16,8 +16,8 @@ keywords:
   - barter
   - 009
 description: 'http://media.blubrry.com/shouldersoftitans/p/content.blubrry.com/shouldersoftitans/009-richard-heftel.mp3 Shoulders Of Titans Podcast Interview #009 with Richard Heftel. His family has its roots in broadcasting, developing the largest Spanish-language radio station group in the United States. Heftel broadcasting went through alterations and was finally folded into the Spanish television giant Univision..'
-datePublished: '2016-02-06T19:39:29.093Z'
-dateModified: '2016-02-06T19:39:27.580Z'
+datePublished: '2016-02-06T19:50:34.229Z'
+dateModified: '2016-02-06T19:50:31.285Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ep&amp;period; 009 - Confessions of a Billionaire Serial Entrepreneur - Shoulders of Titans</h1><p>http&amp;colon;&amp;sol;&amp;sol;media&amp;period;blubrry&amp;period;com&amp;sol;shouldersoftitans&amp;sol;p&amp;sol;content&amp;period;blubrry&amp;period;com&amp;sol;shouldersoftitans&amp;sol;009-richard-heftel&amp;period;mp3 Podcast &amp;lpar;shoulder-of-titans&amp;rpar;&amp;colon; Download &amp;lpar;Duration&amp;colon; 1&amp;colon;04&amp;colon;13 - 58&amp;period;8MB&amp;rpar; Shoulders Of Titans Podcast Interview &amp;num;009 with Richard Heftel Richard Heftel&amp;period; His family has its roots in broadcasting&amp;comma; developing the largest Spanish-language radio station group in the United States&amp;period; Heftel broadcasting went through alterations and was finally folded into the Spanish television giant Univision&amp;comma; in a merger &amp;period;&amp;period;&amp;period;</p><img src="http://www.shouldersoftitans.com/wp-content/uploads/2015/07/modal_book.png" /></article>
+<article style=""><h1>Confessions of a Billionaire Serial Entrepreneur - Shoulders of Titans</h1><p>http://media.blubrry.com/shouldersoftitans/p/content.blubrry.com/shouldersoftitans/009-richard-heftel.mp3 Podcast (shoulder-of-titans): Download (Duration: 1:04:13 - 58.8MB) Shoulders Of Titans Podcast Interview #009 with Richard Heftel Richard Heftel. His family has its roots in broadcasting, developing the largest Spanish-language radio station group in the United States. Heftel broadcasting went through alterations and was finally folded into the Spanish television giant Univision, in a merger ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/277f80293fd674ebcabed17f89467c9d3434dbbf.png" /></article>
