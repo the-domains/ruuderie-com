@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.reuters.com'
-  name: Reuters
-  favicon: 'http://s3.reutersmedia.net/resources_v2/images/favicon.ico'
-  domain: www.reuters.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - blockchain
   - jpmorgan
@@ -18,17 +16,21 @@ keywords:
   - loan
   - asset
 description: "JPMorgan Chase is partnering with start-up Digital Asset Holdings to launch a trial project using blockchain technology that could reduce the cost and complexity of trading, the Financial Times reported on Sunday. The agreement comes as another sign that blockchain, which is best known as the basis of the digital currency Bitcoin, has wide-ranging applications for some of Wall Street's biggest banks."
-inLanguage: en
+datePublished: '2016-02-08T07:38:01.973Z'
+dateModified: '2016-02-08T04:26:13.755Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.reuters.com/article/us-jpmorgan-blockchain-idUSKCN0V9115?feedType=RSS&feedName=businessNews'
 title: 'JPMorgan launches blockchain trial project: FT'
-datePublished: '2016-02-07T18:28:00.819Z'
-dateModified: '2016-02-07T18:27:34.322Z'
 sourcePath: _posts/2016-02-07-jpmorgan-launches-blockchain-trial-project-ft.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Reuters
+  domain: www.reuters.com
+  url: 'http://www.reuters.com'
+  favicon: 'http://s3.reutersmedia.net/resources_v2/images/favicon.ico'
+url: jpmorgan-launches-blockchain-trial-project-ft/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
