@@ -1,5 +1,19 @@
+name: "Ruud Erie's Official Website"
+favicon: null
+layout_spectrum: 0.73626
+typography_spectrum: 0.94835
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-73411607-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#154e80'
@@ -9,11 +23,6 @@ color:
     - '#e81137'
   brandStrength: 0.375
   lightness: 0.9375
-  rhythmicContrast: 0.75
   saturation: 0.875
-cta: {}
-layout_spectrum: 0.73626
-name: "Ruud Erie's Official Website"
-opengraph: {}
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.94835
